@@ -1,9 +1,11 @@
 ### Hi there 👋
-
+<pre>
 - l am a Nodejs developer 2 years in IT
 - 🌱 I’m currently learning Data structure and Algorithms
 - 👯 I’m looking for an opportunity where I can put those abilities to work for a mission I'm passionate about.
 - 📫 How to reach me: 
+
+
 <p>   
   <a href="https://www.instagram.com/umar__forsiy/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -29,6 +31,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/87961327/233279619-47589ee8-6ba7-49d2-91b5-3b49a39e8326.png"/>
   </a>  
 </p>
+
+</pre>
 <!--
 
 
