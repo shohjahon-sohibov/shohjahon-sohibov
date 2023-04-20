@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data structure and Algorithms
 - 👯 I’m looking for an opportunity where I can put those abilities to work for a mission I'm passionate about.
 - 📫 How to reach me: 
-      <p>   
+      <p style="display:flex">   
         <a href="https://www.instagram.com/umar__forsiy/">
           <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
         </a>  
