@@ -7,15 +7,15 @@
         <a href="https://www.instagram.com/umar__forsiy/">
           <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
         </a>  
-
-        <a href="https://www.linkedin.com/in/shohjahon-sohibov-05503b235/">
+      
+      <a href="https://www.linkedin.com/in/shohjahon-sohibov-05503b235/">
           <img height="50" src="https://user-images.githubusercontent.com/87961327/233277298-25a51d8e-1a26-49e7-a236-c84dfd6f15dc.png"/>
-        </a>
-
-        <a href="https://t.me/UmarForsiy">
+        </a>  
+      
+      <a href="https://t.me/UmarForsiy/">
           <img height="50" src="https://user-images.githubusercontent.com/87961327/233277815-2ce1e1c7-2fea-4e0c-ae0a-cc13a026152a.png"/>
-</a>
-</p>
+        </a>  
+      </p>
 - My blogs
       <p>   
         <a href="https://t.me/algorithm_cracker">
