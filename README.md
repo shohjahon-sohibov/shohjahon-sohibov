@@ -1,7 +1,8 @@
 ### Hi there 👋
-- l am a Nodejs developer 2 years in IT
+- l am a Nodejs developer 2 years in IT with online courses
+- l have studied at Najot Ta'lim in Full-Stack Web-Programming course (2021 - 2022) 
 - 🌱 I’m currently learning Data structure and Algorithms
-- 👯 I’m looking for an opportunity where I can put those abilities to work for a mission I'm passionate about.
+- 👯 I’m looking for a new role where I can put those abilities to work for a mission I'm passionate about.
 - 📫 How to reach me: 
       <div style="display:flex">   
         <a href="https://www.instagram.com/umar__forsiy/">
