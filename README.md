@@ -14,8 +14,8 @@
 
         <a href="https://t.me/UmarForsiy">
           <img height="50" src="https://user-images.githubusercontent.com/87961327/233277815-2ce1e1c7-2fea-4e0c-ae0a-cc13a026152a.png"/>
-        </a>
-      </p>
+</a>
+</p>
 - My blogs
       <p>   
         <a href="https://t.me/algorithm_cracker">
