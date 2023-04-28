@@ -9,7 +9,7 @@
           <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
         </a>  <a href="https://www.linkedin.com/in/shohjahon-sohibov-05503b235/">
           <img height="50" src="https://user-images.githubusercontent.com/87961327/233285811-57c503a4-7f1e-4926-b95c-0580cdc3cae1.png"/>
-        </a>  <a href="https://t.me/UmarForsiy/">
+        </a>  <a href="https://t.me/ShohjahonSohibov">
           <img height="50" src="https://user-images.githubusercontent.com/87961327/233277815-2ce1e1c7-2fea-4e0c-ae0a-cc13a026152a.png"/>
         </a> 
       </div>
