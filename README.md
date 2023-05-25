@@ -1,5 +1,6 @@
 ### Hi there 👋
-- l am a Nodejs developer 2 years in IT
+- l am currently developing my dashboard repository
+- l am a Js developer 2 years in IT
 - l have studied at Najot Ta'lim in Full-Stack Web-Programming course (2021 - 2022) 
 - 🌱 I’m currently learning Data structure and Algorithms with online courses
 - 👯 I’m looking for a new role where I can put those abilities to work for a mission I'm passionate about.
