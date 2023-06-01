@@ -20,7 +20,7 @@
           <img height="50" src="https://user-images.githubusercontent.com/87961327/233277815-2ce1e1c7-2fea-4e0c-ae0a-cc13a026152a.png"/>
         </a>  
       </p>
-- l have solved moew than 70 algorithms in codewars
+- l have solved moew than 100 algorithms in codewars
       <p>   
         <a href="https://www.codewars.com/users/shohjahon-sohibov ">
           <img height="50" src="https://user-images.githubusercontent.com/87961327/233279619-47589ee8-6ba7-49d2-91b5-3b49a39e8326.png"/>
