@@ -1,6 +1,6 @@
 <!-- #### Skils -->
 
-
+### Hi there 👋
 <!--
 **shohjahon-sohibov/shohjahon-sohibov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋
+
 - 🔭 I’m currently working on Mediapark GROUP LC
 - l am currently participating on online store Web-site
 - l can code in JS and Golang freely
