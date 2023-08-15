@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 ![shohjahon-sohibov's GitHub stats](https://github-readme-stats.vercel.app/api?username=shohjahon-sohibov&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-sohibov&exclude_repo=github-readme-stats,shohjahon-sohibov.github.io)](https://github.com/shohjahon-sohibov/github-readme-stats)
 ### Sanke game
 ![snake gif](https://github.com/shohjahon-sohibov/shohjahon-sohibov/blob/output/github-contribution-grid-snake.gif)
 
