@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mediapark GROUP LC
+- 
 -->
 ![shohjahon-sohibov's GitHub stats](https://github-readme-stats.vercel.app/api?username=shohjahon-sohibov&show_icons=true&theme=react)
 
@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-- l am currently developing the dashboard of online store
-- l am a Js developer who 2 years in IT
+- 🔭 I’m currently working on Mediapark GROUP LC
+- l am currently participating on online store Web-site
+- l can code in JS and Golang freely
 - l have studied at Najot Ta'lim in Full-Stack Web-Programming course (2021 - 2022) 
-- 🌱 I’m currently learning Data structure and Algorithms with online courses
-- 👯 I’m looking for a new role where I can put those abilities to work for a mission I'm passionate about.
+- 🌱 I’m currently learning Advanced Golang,and Algorithms 
+- 👯 I’m looking for a new interesting, challangeable projects where I can takes me to a new level.
 - 📫 How to reach me: 
       <div style="display:flex">   
         <a href="https://www.instagram.com/umar__forsiy/">
